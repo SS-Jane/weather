@@ -55,11 +55,11 @@ A simple weather application built with React that allows users to search for th
 
 ## 📷 Screenshot
 
-    -  Home page
+    - **Home page**
 
 ![Reference Image](/src/assets/default_page.png)
 
-    - Spell check
+    - **Spell check**
   
 ![Reference Image](/src/assets/city_spell_check.png)
 
